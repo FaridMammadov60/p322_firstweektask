@@ -1,0 +1,16 @@
+C:\Users\farid\Desktop\P322\Code\p322_firstweektask\FirstWeekTask\FirstWeekTask\bin\Debug\net5.0\FirstWeekTask.exe
+C:\Users\farid\Desktop\P322\Code\p322_firstweektask\FirstWeekTask\FirstWeekTask\bin\Debug\net5.0\FirstWeekTask.deps.json
+C:\Users\farid\Desktop\P322\Code\p322_firstweektask\FirstWeekTask\FirstWeekTask\bin\Debug\net5.0\FirstWeekTask.runtimeconfig.json
+C:\Users\farid\Desktop\P322\Code\p322_firstweektask\FirstWeekTask\FirstWeekTask\bin\Debug\net5.0\FirstWeekTask.runtimeconfig.dev.json
+C:\Users\farid\Desktop\P322\Code\p322_firstweektask\FirstWeekTask\FirstWeekTask\bin\Debug\net5.0\FirstWeekTask.dll
+C:\Users\farid\Desktop\P322\Code\p322_firstweektask\FirstWeekTask\FirstWeekTask\bin\Debug\net5.0\FirstWeekTask.pdb
+C:\Users\farid\Desktop\P322\Code\p322_firstweektask\FirstWeekTask\FirstWeekTask\obj\Debug\net5.0\FirstWeekTask.csproj.AssemblyReference.cache
+C:\Users\farid\Desktop\P322\Code\p322_firstweektask\FirstWeekTask\FirstWeekTask\obj\Debug\net5.0\FirstWeekTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farid\Desktop\P322\Code\p322_firstweektask\FirstWeekTask\FirstWeekTask\obj\Debug\net5.0\FirstWeekTask.AssemblyInfoInputs.cache
+C:\Users\farid\Desktop\P322\Code\p322_firstweektask\FirstWeekTask\FirstWeekTask\obj\Debug\net5.0\FirstWeekTask.AssemblyInfo.cs
+C:\Users\farid\Desktop\P322\Code\p322_firstweektask\FirstWeekTask\FirstWeekTask\obj\Debug\net5.0\FirstWeekTask.csproj.CoreCompileInputs.cache
+C:\Users\farid\Desktop\P322\Code\p322_firstweektask\FirstWeekTask\FirstWeekTask\obj\Debug\net5.0\FirstWeekTask.dll
+C:\Users\farid\Desktop\P322\Code\p322_firstweektask\FirstWeekTask\FirstWeekTask\obj\Debug\net5.0\refint\FirstWeekTask.dll
+C:\Users\farid\Desktop\P322\Code\p322_firstweektask\FirstWeekTask\FirstWeekTask\obj\Debug\net5.0\FirstWeekTask.pdb
+C:\Users\farid\Desktop\P322\Code\p322_firstweektask\FirstWeekTask\FirstWeekTask\obj\Debug\net5.0\FirstWeekTask.genruntimeconfig.cache
+C:\Users\farid\Desktop\P322\Code\p322_firstweektask\FirstWeekTask\FirstWeekTask\obj\Debug\net5.0\ref\FirstWeekTask.dll
